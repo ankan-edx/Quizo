@@ -2,8 +2,8 @@ import { Quiz, QuestionType } from '../types';
 
 export const sampleQuiz: Quiz = {
   id: 'quiz-1',
-  title: 'Programming Fundamentals',
-  description: 'Test your knowledge of programming concepts, data structures, and algorithms. Perfect for both beginners and experienced developers!',
+  title: 'Q U I Z O',
+  description: 'Test your knowledge of Science & Technology , General Knowledge , Statistics with the power of AI ',
   questions: [
     {
       id: 'q1',
